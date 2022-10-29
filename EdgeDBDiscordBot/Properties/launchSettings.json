@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EdgeDBDiscordBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "token": ""
+      }
+    }
+  }
+}
